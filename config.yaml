@@ -1,8 +1,11 @@
+module:
+  imports:
+    path: "github.com/zwbetz-gh/cupper-hugo-theme"
+
 hugo baseURL: 
 languageCode: en-us
 defaultContentLanguage: it
 title: Bluto Blog
-theme: cupper-hugo-theme
 #googleAnalytics: UA-123456789-1
 disqusShortname: bluto
 enableGitInfo: false
@@ -29,7 +32,6 @@ params:
   showThemeSwitcher: false
   defaultDarkTheme: false
   moveFooterToHeader: false
-  navTitleText: Bluto Blog
   logoAlt: Bluto Blog
   customCss:
     - css/custom_01.css
