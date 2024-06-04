@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Bluto Blog</title>
-    <link>/</link>
-    <description>Recent content in Home on Bluto Blog</description>
+    <title>Posts on Bluto Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Bluto Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>/blog/2023/07/first-post/</link>
-      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2023/07/first-post/</guid>
-      <description>Hello, World!
-Questo è il mio primo post della mia vita; mi presento: sono &amp;ldquo;Bluto&amp;rdquo;.
-Non pensate di venire qua e trovare la verità, la verità non è di nessuno. L&amp;rsquo;unica cosa che provo a fare è quella di lasciare degli spunti e delle idee alle persone che leggeranno i miei contenuti.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another test</title>
       <link>/first_post/</link>
@@ -100,17 +89,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hi, questo è il mio blog personale in cui scrivo per passatempo, per gioco e per magari qualcuno che legge, ma questo non è detto.
-Questo Blog è scritto con il framework Hugo che permette di creare siti statici, il template è Cupper modificato per l&amp;rsquo;utilizzo su questo sito.
-Grazie per avermi letto!</description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -143,24 +121,6 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
 ▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>/politics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Università</title>
-      <link>/universita/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/universita/</guid>
-      <description>Primo anno Analisi 1 Fisica 1 Algebrea lineare e geometria  Secondo anno Analisi 2 Fisica 2 Algoritmi e strutture dati  </description>
     </item>
     
   </channel>
