@@ -1,4 +1,4 @@
-baseURL: 
+hugo baseURL: 
 languageCode: en-us
 defaultContentLanguage: it
 title: Bluto Blog
@@ -50,9 +50,6 @@ menu:
     - name: Blog
       url: /blog/
       weight: 2
-    - name: Università
-      url: /universita/
-      weight: 3
     - name: Films & Books
       url: /film/
       weight: 5

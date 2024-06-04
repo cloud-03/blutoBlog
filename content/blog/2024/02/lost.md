@@ -1,7 +1,7 @@
 ---
 title: "Lost"
 date: 2024-02-14
-draft: false
+draft: true
 ---
 
 Oggi ho sentito dire che la consapevolezza ci rende tristi, io non credo di essere consapevole ma solo triste. Sono consapevole che tutto quello che sto studiando mi fa impazziere(nel senso positivo), ma gli esami non me lo fanno studiare come vorrei. La pressione di certi periodi mi forza a studiare controvoglia e quando invece vorrei studiare non serve al conseguire questi esami.
