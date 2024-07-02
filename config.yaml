@@ -49,18 +49,18 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
+    - name: B(luto) Log
       url: /blog/
       weight: 2
     - name: Films & Books
       url: /film/
-      weight: 5
-    - name: Politics
-      url: /politics/
-      weight: 6  
+      weight: 3
+    - name: Study with Me
+      url: /SwM
+      weight: 4  
     - name: About
       url: /about/
-      weight: 7
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
