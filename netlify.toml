@@ -4,7 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.83.1"
-  HUGO_BASEURL = "https://cupper-hugo-theme.netlify.app"
+  HUGO_BASEURL = "https://blutoblog.netlify.app"
 
 [[headers]]
   for = "/*"
